@@ -12,7 +12,7 @@ Soy un **Desarrollador de Software** con más de 7 años de experiencia, especia
 - **Experiencia de Usuario**: Creación de interfaces interactivas y reactivas
 
 ### 🤝 Enfoque Multidisciplinario
-Mi experiencia no solo se limita a un área específica. Tengo la capacidad de trabajar en todas las etapas del ciclo de vida del desarrollo de software, ofreciendo soluciones integrales que superan las expectativas.
+- Mi experiencia no solo se limita a un área específica. Tengo la capacidad de trabajar en todas las etapas del ciclo de vida del desarrollo de software, ofreciendo soluciones integrales que superan las expectativas.
 
 ### 📫 Soft Skills
 - **Trabajo en Equipo**: Habilidad natural para colaborar y alcanzar objetivos comunes
