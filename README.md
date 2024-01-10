@@ -8,7 +8,7 @@ Soy un **Desarrollador de Software** con más de 7 años de experiencia, especia
 - **Optimización y Seguridad**: Diseño y optimización de sistemas de almacenamiento de datos
 
 ### 🌱 Habilidades en Frontend
-- **Desarrollo de Interfaces de Usuario**: Angular, TypeScript, ASP.Net MVC Razor, JavaScript
+- **Desarrollo de Interfaces de Usuario**: Angular, TypeScript, ASP.Net MVC Razor, Blazor, JavaScript
 - **Experiencia de Usuario**: Creación de interfaces interactivas y reactivas
 
 ### 🤝 Enfoque Multidisciplinario
