@@ -25,17 +25,6 @@ Sígueme aquí en GitHub para ver mis proyectos y colaboraciones. ¡Estoy siempr
 
 ---
 
-<h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">A passionate backend developer from Perú</h3>
-
-- 🔭 I’m currently working on **Digicem**
-
-- 🌱 I’m currently learning **Python, Microservices.**
-
-- 💬 Ask me about **.Net, Sql, Python and JS**
-
-- 📫 How to reach me **erik.abanto@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/pepe_le_pew___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/pepe_le_pew___" height="30" width="40" /></a>
